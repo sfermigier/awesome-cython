@@ -13,6 +13,7 @@ A curated list of awesome Cython resources.
     - [Lectures](#lectures)
     - [Other](#other)
   - [Software](#software)
+    - [Cython librairies](#cython-librairies)
 
 ---
 
@@ -51,4 +52,6 @@ TODO
 
 ## Software
 
-TODO.
+### Cython librairies
+
+* [Cygnals](https://github.com/sagemath/cysignals) - cysignals: interrupt and signal handling for Cython.
