@@ -67,6 +67,7 @@ TODO
 *Librairies specifically designed to complement Cython*.
 
 - [Cygnals](https://github.com/sagemath/cysignals) ★26 - cysignals: interrupt and signal handling for Cython.
+- [Pyrobuf](https://github.com/appnexus/pyrobuf) ★499 - an alternative to Google's Python Protobuf library, than generates lightning-fast Cython code that's 2-4x faster than Google's Python Protobuf library using their C++ backend and 20-40x faster than Google's pure-python implementation.
 
 
 ### Alternatives
@@ -77,7 +78,7 @@ TODO
 
 ### Some projects with more that 10 000 lines of Cython code
 
-- [Pandas](https://github.com/pydata/pandas) ★27506 - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
+- [Pandas](https://github.com/pydata/pandas) ★27508 - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
 - [scipy](https://github.com/scipy/scipy) ★7733 - Open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) ★43280 - A Python module for machine learning built on top of SciPy.
 
@@ -89,5 +90,6 @@ TODO
 - [scikit-image](https://github.com/scikit-image/scikit-image) ★4076 - Image processing in Python.
 - [lxml](https://github.com/lxml/lxml) ★1789 - The most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 - [BlackSheep](https://github.com/RobertoPrevato/BlackSheep) ★420 - Fast ASGI web framework and HTTP client for Python asyncio.
+- [Pomegranate](https://github.com/jmschrei/pomegranate) ★2498 - Fast, flexible and easy to use probabilistic modelling in Python.
 
 
