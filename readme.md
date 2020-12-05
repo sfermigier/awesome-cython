@@ -16,6 +16,8 @@ A curated list of awesome Cython resources.
     - [Cython implementation](#cython-implementation)
     - [Cython librairies](#cython-librairies)
     - [Alternatives](#alternatives)
+    - [Some projects with more that 10 000 lines of Cython code](#some-projects-with-more-that-10-000-lines-of-cython-code)
+    - [Some projects with more that 1 000 lines of Cython code](#some-projects-with-more-that-1-000-lines-of-cython-code)
 
 ---
 
