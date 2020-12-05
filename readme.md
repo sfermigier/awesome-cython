@@ -78,13 +78,14 @@ TODO
 - [Pandas](https://github.com/pydata/pandas) ★27506 - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
 - [scipy](https://github.com/scipy/scipy) ★7733 - Open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) ★43280 - A Python module for machine learning built on top of SciPy.
-- [scikit-image](https://github.com/scikit-image/scikit-image) ★4076 - Image processing in Python.
 
 ### Some projects with more that 1 000 lines of Cython code
 
 - [Numpy](https://github.com/numpy/numpy) ★15623 - The fundamental package for scientific computing with Python.
 - [Cytoolz](https://github.com/pytoolz/cytoolz) ★746 - Cython implementation of Toolz: High performance functional utilities.
 - [spaCy](https://github.com/explosion/spaCy) ★17756 - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
+- [scikit-image](https://github.com/scikit-image/scikit-image) ★4076 - Image processing in Python.
+- [lxml](https://github.com/lxml/lxml) ★1789 - The most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 - [BlackSheep](https://github.com/RobertoPrevato/BlackSheep) ★420 - Fast ASGI web framework and HTTP client for Python asyncio.
 
 
