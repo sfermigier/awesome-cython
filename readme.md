@@ -1,4 +1,4 @@
-# Awesome Cython 
+# Awesome Cython
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -54,17 +54,17 @@ TODO
 
 ### Cython implementation
 
-- [Cython](https://github.com/cython/cython) - "The most widely used Python to C compiler".
+- [Cython](https://github.com/cython/cython) ★5688 - "The most widely used Python to C compiler".
 - [Cython+](https://lab.nexedi.com/nexedi/cython) - Fork of Cython by the Cython+ project.
 
 
 ### Cython librairies
 
-* [Cygnals](https://github.com/sagemath/cysignals) - cysignals: interrupt and signal handling for Cython.
+- [Cygnals](https://github.com/sagemath/cysignals) ★26 - cysignals: interrupt and signal handling for Cython.
 
 
 ### Alternatives
 
-- [Pythran](https://github.com/serge-sans-paille/pythran) - An ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface description and turns it into a native Python module with the same interface, but (hopefully) faster.
-- [Numba](https://github.com/numba/numba) - A Just-In-Time Compiler for Numerical Functions in Python.
+- [Pythran](https://github.com/serge-sans-paille/pythran) ★1477 - An ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface description and turns it into a native Python module with the same interface, but (hopefully) faster.
+- [Numba](https://github.com/numba/numba) ★5854 - A Just-In-Time Compiler for Numerical Functions in Python.
 
