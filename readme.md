@@ -56,7 +56,7 @@ TODO
 
 ### Cython implementation
 
-- [Cython](https://github.com/cython/cython) ★5688 - "The most widely used Python to C compiler".
+- [Cython](https://github.com/cython/cython) ★5689 - "The most widely used Python to C compiler".
 - [Cython+](https://lab.nexedi.com/nexedi/cython) - Fork of Cython by the Cython+ project.
 
 
@@ -75,16 +75,16 @@ TODO
 
 ### Some projects with more that 10 000 lines of Cython code
 
-- [Pandas](https://github.com/pydata/pandas) - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
-- [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - A Python module for machine learning built on top of SciPy.
-- [scikit-image](https://github.com/scikit-image/scikit-image.git) - Image processing in Python.
+- [Pandas](https://github.com/pydata/pandas) ★27506 - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
+- [scipy](https://github.com/scipy/scipy) ★7733 - Open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) ★43280 - A Python module for machine learning built on top of SciPy.
+- [scikit-image](https://github.com/scikit-image/scikit-image) ★4076 - Image processing in Python.
 
 ### Some projects with more that 1 000 lines of Cython code
 
-- [Numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
-- [Cytoolz](https://github.com/pytoolz/cytoolz) - Cython implementation of Toolz: High performance functional utilities.
-- [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
-- [BlackSheep](https://github.com/RobertoPrevato/BlackSheep) - Fast ASGI web framework and HTTP client for Python asyncio.
+- [Numpy](https://github.com/numpy/numpy) ★15623 - The fundamental package for scientific computing with Python.
+- [Cytoolz](https://github.com/pytoolz/cytoolz) ★746 - Cython implementation of Toolz: High performance functional utilities.
+- [spaCy](https://github.com/explosion/spaCy) ★17756 - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
+- [BlackSheep](https://github.com/RobertoPrevato/BlackSheep) ★420 - Fast ASGI web framework and HTTP client for Python asyncio.
 
 
