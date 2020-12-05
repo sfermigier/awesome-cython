@@ -52,6 +52,19 @@ TODO
 
 ## Software
 
+### Cython implementation
+
+- [Cython](https://github.com/cython/cython) - "The most widely used Python to C compiler".
+- [Cython+](https://lab.nexedi.com/nexedi/cython) - Fork of Cython by the Cython+ project.
+
+
 ### Cython librairies
 
 * [Cygnals](https://github.com/sagemath/cysignals) - cysignals: interrupt and signal handling for Cython.
+
+
+### Alternatives
+
+- [Pythran](https://github.com/serge-sans-paille/pythran) - An ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface description and turns it into a native Python module with the same interface, but (hopefully) faster.
+- [Numba](https://github.com/numba/numba) - A Just-In-Time Compiler for Numerical Functions in Python.
+
