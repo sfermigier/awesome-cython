@@ -13,7 +13,9 @@ A curated list of awesome Cython resources.
     - [Lectures](#lectures)
     - [Other](#other)
   - [Software](#software)
+    - [Cython implementation](#cython-implementation)
     - [Cython librairies](#cython-librairies)
+    - [Alternatives](#alternatives)
 
 ---
 
