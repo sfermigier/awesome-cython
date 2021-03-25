@@ -78,20 +78,23 @@ TODO
 
 ### Some projects with more that 10 000 lines of Cython code
 
-- [Pandas](https://github.com/pydata/pandas) ★29105 - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
+- [Pandas](https://github.com/pydata/pandas) ★29106 - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
 - [scipy](https://github.com/scipy/scipy) ★8036 - Open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) ★44969 - A Python module for machine learning built on top of SciPy.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) ★44971 - A Python module for machine learning built on top of SciPy.
+- [spaCy](https://github.com/explosion/spaCy) ★19965 - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
+
+### Some projects with more that 5 000 lines of Cython code
+
+- [Numpy](https://github.com/numpy/numpy) ★16626 - The fundamental package for scientific computing with Python.
+- [Schrapnel](https://github.com/ironport/shrapnel) ★211 - Shrapnel is a scalable, high-performance cooperative threading library for Python.
+- [scikit-image](https://github.com/scikit-image/scikit-image) ★4253 - Image processing in Python.
+- [lxml](https://github.com/lxml/lxml) ★1840 - The most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
+- [Pomegranate](https://github.com/jmschrei/pomegranate) ★2631 - Fast, flexible and easy to use probabilistic modelling in Python.
 
 ### Some projects with more that 1 000 lines of Cython code
 
-- [Numpy](https://github.com/numpy/numpy) ★16626 - The fundamental package for scientific computing with Python.
-- [Cytoolz](https://github.com/pytoolz/cytoolz) ★767 - Cython implementation of Toolz: High performance functional utilities.
-- [spaCy](https://github.com/explosion/spaCy) ★19965 - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
-- [scikit-image](https://github.com/scikit-image/scikit-image) ★4253 - Image processing in Python.
-- [lxml](https://github.com/lxml/lxml) ★1840 - The most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 - [BlackSheep](https://github.com/RobertoPrevato/BlackSheep) ★455 - Fast ASGI web framework and HTTP client for Python asyncio.
-- [Pomegranate](https://github.com/jmschrei/pomegranate) ★2631 - Fast, flexible and easy to use probabilistic modelling in Python.
 - [pyimgui](https://github.com/swistakm/pyimgui) ★506 - Python bindings for the amazing dear imgui C++ library - a Bloat-free Immediate Mode Graphical User Interface.
-- [Schrapnel](https://github.com/ironport/shrapnel) ★211 - Shrapnel is a scalable, high-performance cooperative threading library for Python.
+- [Antidote](https://github.com/Finistere/antidote) ★24 - Dependency injection for Python.
 
 
