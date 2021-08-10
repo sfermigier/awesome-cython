@@ -58,7 +58,7 @@ TODO
 
 ### Cython implementation
 
-- [Cython](https://github.com/cython/cython) ★6195 - "The most widely used Python to C compiler".
+- [Cython](https://github.com/cython/cython) ★6287 - "The most widely used Python to C compiler".
 - [Cython+](https://lab.nexedi.com/nexedi/cython) - Fork of Cython by the Cython+ project.
 
 
@@ -72,29 +72,29 @@ TODO
 
 ### Alternatives
 
-- [Pythran](https://github.com/serge-sans-paille/pythran) ★1575 - An ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface description and turns it into a native Python module with the same interface, but (hopefully) faster.
-- [Numba](https://github.com/numba/numba) ★6638 - A Just-In-Time Compiler for Numerical Functions in Python.
+- [Pythran](https://github.com/serge-sans-paille/pythran) ★1590 - An ahead of time compiler for a subset of the Python language, with a focus on scientific computing. It takes a Python module annotated with a few interface description and turns it into a native Python module with the same interface, but (hopefully) faster.
+- [Numba](https://github.com/numba/numba) ★6737 - A Just-In-Time Compiler for Numerical Functions in Python.
 
 
 ### Some projects with more that 10 000 lines of Cython code
 
-- [Pandas](https://github.com/pydata/pandas) ★30256 - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
-- [scipy](https://github.com/scipy/scipy) ★8347 - Open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) ★46331 - A Python module for machine learning built on top of SciPy.
-- [spaCy](https://github.com/explosion/spaCy) ★20827 - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
+- [Pandas](https://github.com/pydata/pandas) ★30643 - A Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
+- [scipy](https://github.com/scipy/scipy) ★8462 - Open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) ★46745 - A Python module for machine learning built on top of SciPy.
+- [spaCy](https://github.com/explosion/spaCy) ★21057 - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
 
 ### Some projects with more that 5 000 lines of Cython code
 
-- [Numpy](https://github.com/numpy/numpy) ★17557 - The fundamental package for scientific computing with Python.
+- [Numpy](https://github.com/numpy/numpy) ★17888 - The fundamental package for scientific computing with Python.
 - [Schrapnel](https://github.com/ironport/shrapnel) ★213 - Shrapnel is a scalable, high-performance cooperative threading library for Python.
-- [scikit-image](https://github.com/scikit-image/scikit-image) ★4408 - Image processing in Python.
-- [lxml](https://github.com/lxml/lxml) ★1901 - The most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
-- [Pomegranate](https://github.com/jmschrei/pomegranate) ★2702 - Fast, flexible and easy to use probabilistic modelling in Python.
+- [scikit-image](https://github.com/scikit-image/scikit-image) ★4449 - Image processing in Python.
+- [lxml](https://github.com/lxml/lxml) ★1917 - The most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
+- [Pomegranate](https://github.com/jmschrei/pomegranate) ★2717 - Fast, flexible and easy to use probabilistic modelling in Python.
 
 ### Some projects with more that 1 000 lines of Cython code
 
-- [BlackSheep](https://github.com/RobertoPrevato/BlackSheep) ★594 - Fast ASGI web framework and HTTP client for Python asyncio.
-- [pyimgui](https://github.com/swistakm/pyimgui) ★539 - Python bindings for the amazing dear imgui C++ library - a Bloat-free Immediate Mode Graphical User Interface.
+- [BlackSheep](https://github.com/RobertoPrevato/BlackSheep) ★631 - Fast ASGI web framework and HTTP client for Python asyncio.
+- [pyimgui](https://github.com/swistakm/pyimgui) ★550 - Python bindings for the amazing dear imgui C++ library - a Bloat-free Immediate Mode Graphical User Interface.
 - [Antidote](https://github.com/Finistere/antidote) ★26 - Dependency injection for Python.
 
 
