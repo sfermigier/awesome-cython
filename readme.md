@@ -33,25 +33,25 @@ A curated list of awesome Cython resources.
 
 * [Cython: The Best of Both Worlds](https://ieeexplore.ieee.org/document/5582062) - Article by Stefan Behnel; Robert Bradshaw; Craig Citro; Lisandro Dalcin; Dag Sverre Seljebotn; Kurt Smith; IEEE Software, 2011.
 
-### Magazine articles, blog posts
-
-TODO
 
 ### Books
 
-*Books on or related to Cython*
+*Books on, or related to, Cython*
 
 * [Cython](https://www.amazon.fr/Cython-Kurt-Smith/dp/1491901551/) - Book by Kurt Smith, O'Reilly, 2015.
 * [Learning Cython Programming - Second Edition](https://www.amazon.fr/Learning-Cython-Programming-Second-English-ebook/dp/B01A8T8XGK/) - Book by Philip Herron, Packt 2016.
 
+
 ### Lectures
 
 * [Introduction à Cython](https://docplayer.fr/56207485-Introduction-a-cython.html) - Lecture by Loïc Gouarin, 2013 (in French).
+* [Introduction to Cython](https://events.prace-ri.eu/event/1147/contributions/1184/attachments/1445/3026/Cython.pdf) - SoHPC 2021, James Nelson.
 
 
 ### Other
 
 * [Wikipedia entry on Cython](https://en.wikipedia.org/wiki/Cython).
+
 
 
 ## Software
