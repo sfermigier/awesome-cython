@@ -90,6 +90,8 @@ A curated list of awesome Cython resources.
 - [scikit-image](https://github.com/scikit-image/scikit-image) ★5941 - Image processing in Python.
 - [lxml](https://github.com/lxml/lxml) ★2612 - The most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 - [Pomegranate](https://github.com/jmschrei/pomegranate) ★3292 - Fast, flexible and easy to use probabilistic modelling in Python.
+- [uvloop](https://github.com/MagicStack/uvloop) ★10900 - An Alternative asyncio evenloop for Unix and Apple Operating Systems
+- [winloop](https://github.com/Vizonex/winloop) ★144 - A Forked Version of uvloop for Windows Operating systems that aims to be uvloop's equal in speed.
 
 ### Some projects with more that 1 000 lines of Cython code
 
