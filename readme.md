@@ -96,5 +96,6 @@ A curated list of awesome Cython resources.
 - [BlackSheep](https://github.com/RobertoPrevato/BlackSheep) ★1799 - Fast ASGI web framework and HTTP client for Python asyncio.
 - [pyimgui](https://github.com/swistakm/pyimgui) ★1308 - Python bindings for the amazing dear imgui C++ library - a Bloat-free Immediate Mode Graphical User Interface.
 - [Antidote](https://github.com/Finistere/antidote) ★91 - Dependency injection for Python.
+- [asyncfiles](https://github.com/cve-zh00/asyncfiles) ★22 - High-performance asynchronous file I/O for Python built on libuv and io_uring with Cython.
 
 
